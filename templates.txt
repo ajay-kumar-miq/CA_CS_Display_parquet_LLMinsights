@@ -5,3 +5,12 @@ Row : {row}
 
 Please narrate the insights for each relevant data point, providing analysis and interpretations based on the provided values.
 """
+
+template_v2 = """
+You are an analyst reviewing data insights in the ad-tech domain. You will be provided with data columns and their corresponding values, representing various metrics and attributes from an advertising campaign. Your task is to narrate the insights derived from this data. You will be provided one row of the dataframe.
+
+Row : {row}
+
+Please narrate the insights for each relevant data point, providing analysis and interpretations based on the provided values.
+Provide a short summary of the insights generated at the end.
+"""
