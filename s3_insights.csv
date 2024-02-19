@@ -1,0 +1,99 @@
+,Advertisement_Flag,Folder_name,URI,Parquet_contents,LLM_Response
+0,Advertiser_flag=dzx5gjn-72lfq2o;jyptqpl;byl8rou;6ndxcjp-2023-05-01-2023-05-30/,City,Campaign_Snapshot_Canada/Test_Canada_Campaign_Snapshot_MiQ_LLM/City/Advertiser_flag=dzx5gjn-72lfq2o;jyptqpl;byl8rou;6ndxcjp-2023-05-01-2023-05-30/,,parquet file not found!
+1,Advertiser_flag=dzx5gjn-72lfq2o;jyptqpl;byl8rou;6ndxcjp-2023-05-01-2023-05-30/,Creative,s3://analyst-adhoc/Campaign_Snapshot_Canada/Test_Canada_Campaign_Snapshot_MiQ_LLM/Creative/Advertiser_flag=dzx5gjn-72lfq2o;jyptqpl;byl8rou;6ndxcjp-2023-05-01-2023-05-30/part-00000-tid-6389929480657147908-c7aecf38-174e-46c7-a736-f712f0f13c11-14421-1.c000.snappy.parquet,"Row(creative_name='CA_TENA_DISPLAY_INCO_CA_APEX Programmatic Display Video-CA-TENA-DD-INCO-Men-M45+-PRO-PROOX-PD-DCPM-TENA-Men-Acceptors-StandardBanner-Prop-EN-160x600-New-GLD000KJGC_230228_DCM_360691291', creative_size='160x600', impressions_display='7', clicks='0', total_conversions='0')","
+Insights:
+
+1. The creative name 'CA_TENA_DISPLAY_INCO_CA_APEX Programmatic Display Video-CA-TENA-DD-INCO-Men-M45+-PRO-PROOX-PD-DCPM-TENA-Men-Acceptors-StandardBanner-Prop-EN-160x600-New-GLD000KJGC_230228_DCM_360691291' suggests that this is a programmatic display video ad campaign for TENA, targeting men aged 45 and above, with a creative size of 160x600 pixels. The creative name also indicates that this is a new campaign, as denoted by the 'New' keyword.
+
+2. The 'impressions_display' metric indicates that this creative has been displayed 7 times. This means that the ad has been shown to potential viewers 7 times, but it does not necessarily mean that 7 unique individuals have seen the ad.
+
+3. The 'clicks' metric is 0, indicating that no clicks have been recorded for this creative yet. This could mean that the ad is not performing well or that it has not been shown to enough people yet to generate any clicks.
+
+4. The 'total_conversions' metric is also 0, suggesting that no conversions have been recorded for this creative. A conversion is typically defined as a desired action taken by a user, such as making a purchase or filling out a form. The lack of conversions could indicate that the ad is not resonating with the target audience or that the creative is not effectively driving users to take the desired action.
+
+5. Based on the provided data, it appears that this creative is still in the early stages of its campaign, as indicated by the lack of clicks and conversions. It may be worth monitoring the performance of this creative over time to see if it starts to generate more engagement and conversions. Additionally, it may be worth considering optimizing the creative or targeting to improve its performance. For example, testing different ad copy, images, or targeting criteria could help to increase clicks and conversions."
+2,Advertiser_flag=dzx5gjn-72lfq2o;jyptqpl;byl8rou;6ndxcjp-2023-05-01-2023-05-30/,Demostats,s3://analyst-adhoc/Campaign_Snapshot_Canada/Test_Canada_Campaign_Snapshot_MiQ_LLM/Demostats/Advertiser_flag=dzx5gjn-72lfq2o;jyptqpl;byl8rou;6ndxcjp-2023-05-01-2023-05-30/part-00000-tid-6116084392721148221-526361d6-12da-48db-92eb-188a606a8c9f-12951-2.c000.snappy.parquet,"Row(catdesc='Households by Maintainer Age', description='Maintainers 25 To 34', impressions_display='9', clicks='0', total_conversions='0')","
+Insights:
+
+1. The given data represents the campaign metric for 'Households by Maintainer Age' with a specific description 'Maintainers 25 To 34'. This indicates that the campaign is targeting households where the age of the maintainer falls between 25 and 34.
+
+2. The 'impressions_display' value is 9. This metric represents the number of times the ad was displayed to users. In this case, the ad was displayed 9 times in total for this specific target group.
+
+3. The 'clicks' value is 0. This metric indicates the number of clicks the ad received from users in this target group. In this case, no clicks were recorded for the 'Maintainers 25 To 34' age group.
+
+4. The 'total_conversions' value is also 0. This metric represents the number of conversions, which is a desired action taken by the user after clicking on the ad. In this case, no conversions were recorded for the 'Maintainers 25 To 34' age group.
+
+5. Based on the provided data, it appears that the ad campaign is not performing well for the 'Maintainers 25 To 34' age group. The lack of clicks and conversions suggests that the ad may not be resonating with this demographic. Further analysis, such as examining the ad creative, targeting, and messaging, may be necessary to determine the root cause of the poor performance and identify potential improvements."
+3,Advertiser_flag=dzx5gjn-72lfq2o;jyptqpl;byl8rou;6ndxcjp-2023-05-01-2023-05-30/,Eshopper,s3://analyst-adhoc/Campaign_Snapshot_Canada/Test_Canada_Campaign_Snapshot_MiQ_LLM/Eshopper/Advertiser_flag=dzx5gjn-72lfq2o;jyptqpl;byl8rou;6ndxcjp-2023-05-01-2023-05-30/part-00000-tid-6303291948075201999-5dc22a7f-3fc9-44f6-9b5d-3ebd7ef5f199-14018-2.c000.snappy.parquet,"Row(Category='Online Product Purchase', Description='Expected online spend [Nxt 12 Mths] - Government services - Less', impressions_display='72', clicks='0', total_conversions='0', population1_display='461.4')","
+Insights:
+1. The given row represents an advertising campaign category as 'Online Product Purchase' with a description 'Expected online spend [Nxt 12 Mths] - Government services - Less'. This indicates that the campaign is focused on reducing the expected online spend for government services in the next 12 months.
+2. The 'impressions_display' value is 72. This metric represents the number of times the ad was displayed to users. In this case, the ad was displayed 72 times. A low number of impressions might suggest that the ad is not reaching its intended audience effectively or that the targeting parameters need to be refined.
+3. The 'clicks' value is 0. This metric represents the number of times users clicked on the ad. In this case, no clicks were recorded. A low number of clicks could be due to poor ad relevance, low-quality creative, or ineffective targeting.
+4. The 'total_conversions' value is 0. This metric represents the number of conversions (sales, sign-ups, etc.) generated from the ad. A low number of conversions could be due to various factors such as poor ad performance, user experience issues, or pricing challenges.
+5. The 'population1_display' value is 461.4. This metric represents the estimated population size of the audience that saw the ad. In this case, the ad was displayed to an audience of approximately 461 individuals. Understanding the size of the audience reached is crucial in evaluating the campaign's reach and potential impact."
+4,Advertiser_flag=dzx5gjn-72lfq2o;jyptqpl;byl8rou;6ndxcjp-2023-05-01-2023-05-30/,Impressions_count,s3://analyst-adhoc/Campaign_Snapshot_Canada/Test_Canada_Campaign_Snapshot_MiQ_LLM/Impressions_count/Advertiser_flag=dzx5gjn-72lfq2o;jyptqpl;byl8rou;6ndxcjp-2023-05-01-2023-05-30/part-00000-tid-5452018545122783909-132bbfe9-5244-4428-a64c-2ebea8a4e316-14281-2.c000.snappy.parquet,"Row(advertiser='CA - Tena c.o Starcom Canada', start_date='2023-05-01', end_date='2023-05-30', impression_count_display='2789888.0', clicks_count='2450.0', CTR='0.08781714534777023')","
+Insights:
+
+1. Impression count display: The advertiser 'CA - Tena c.o Starcom Canada' had a total of 2,789,888 impressions during the campaign period from May 1, 2023, to May 31, 2023. This indicates a significant reach for their advertising message, potentially exposing their brand to a large audience.
+
+2. Clicks count: With a total of 2,450 clicks recorded during the campaign, it suggests that a considerable number of users were engaged enough by the ad to click on it. This engagement could lead to potential conversions or sales, depending on the nature of the ad and the advertiser's website or landing page.
+
+3. Click-through rate (CTR): The CTR of 0.0878% for this campaign is relatively average compared to industry benchmarks. However, it's essential to consider the context of the campaign, such as the target audience, ad format, and competition within the industry. A lower CTR might still be considered successful if the campaign objectives were primarily focused on brand awareness rather than direct sales.
+
+In summary, the data suggests that the 'CA - Tena c.o Starcom Canada' campaign reached a large audience, with a significant number of users engaging with the ads by clicking on them. While the CTR is average, it's important to consider the campaign objectives and context to determine its overall success."
+5,Advertiser_flag=dzx5gjn-72lfq2o;jyptqpl;byl8rou;6ndxcjp-2023-05-01-2023-05-30/,Numeris,s3://analyst-adhoc/Campaign_Snapshot_Canada/Test_Canada_Campaign_Snapshot_MiQ_LLM/Numeris/Advertiser_flag=dzx5gjn-72lfq2o;jyptqpl;byl8rou;6ndxcjp-2023-05-01-2023-05-30/part-00000-tid-6137936607645879372-49933236-e059-4a87-b7a6-6fe0be4b4dca-13641-2.c000.snappy.parquet,"Row(Category='Personal Care - Cosmetics', Description='Frequency of Using [Pst Wk] - Shavers - Non-disposable - Use most often', impressions_display='60', clicks='0', total_conversions='0', population1_display='5645.579482754854')","
+Insights:
+1. The given row represents data from a campaign in the 'Personal Care - Cosmetics' category, specifically focusing on 'Frequency of Using' non-disposable shavers.
+2. The 'Description' column indicates that this is the most frequently used non-disposable shaver ad among the campaign's target audience.
+3. The 'impressions_display' value of '60' signifies that the ad has been displayed 60 times to the target population.
+4. The 'clicks' value of '0' indicates that no clicks have been recorded for this ad.
+5. The 'total_conversions' value of '0' suggests that no conversions (sales or sign-ups) have occurred as a result of this ad.
+6. The 'population1_display' value of '5645.579482754854' represents the total size of the population that has been exposed to this ad. This value is significantly larger than the 'impressions_display' value, indicating that the same individuals may have seen the ad multiple times.
+
+In summary, this data point indicates that the most frequently used non-disposable shaver ad in the 'Personal Care - Cosmetics' category has been displayed 60 times, but no clicks or conversions have been recorded. The ad has reached a larger population than the number of impressions, suggesting potential for increased engagement if the ad's messaging and targeting can be optimized."
+6,Advertiser_flag=dzx5gjn-72lfq2o;jyptqpl;byl8rou;6ndxcjp-2023-05-01-2023-05-30/,Prizm,s3://analyst-adhoc/Campaign_Snapshot_Canada/Test_Canada_Campaign_Snapshot_MiQ_LLM/Prizm/Advertiser_flag=dzx5gjn-72lfq2o;jyptqpl;byl8rou;6ndxcjp-2023-05-01-2023-05-30/part-00000-tid-7797474519726386942-8490a733-a5ef-4ed1-9642-8508e8753f2c-12873-2.c000.snappy.parquet,"Row(name='Indieville', prizmdescriptor='Younger and middle-aged urban singles and couples', official_language='English', cultural_diversity_index='Low', income_level='Upper-Middle', age_of_maintainer='Younger & Middle-Aged', family_status='Singles/Couples', education='University', job_type='White Collar/Service Sector', dwelling_type='Low Rise Apt/Semi/Duplex', residency='Own & Rent', households='199739', impressions_display='440360.0', clicks='860.0', population1_display='56319540')","
+Insights:
+
+1. The name of the segment is 'Indieville'. This segment targets younger and middle-aged urban singles and couples.
+
+2. The prizmdescriptor indicates that this segment is primarily composed of younger and middle-aged urban singles and couples. This demographic is often targeted by advertisers in the media and entertainment industries, as well as by retailers and consumer goods companies.
+
+3. The official language for this segment is English. This is a common language for many urban areas, particularly in North America and Europe.
+
+4. The cultural diversity index for this segment is 'Low'. This suggests that the segment is relatively homogeneous in terms of cultural background. Advertisers may need to tailor their messaging accordingly to ensure that it resonates with this demographic.
+
+5. The income level for this segment is 'Upper-Middle'. This indicates that the segment has a relatively high average income. Advertisers may be interested in targeting this segment with premium products or services.
+
+6. The age of the maintainer for this segment is 'Younger & Middle-Aged'. This demographic is often targeted by advertisers in the health and wellness, technology, and lifestyle industries.
+
+7. The family status for this segment is 'Singles/Couples'. This suggests that the segment is primarily composed of individuals who are not married or do not have children. Advertisers may need to tailor their messaging to appeal to this demographic.
+
+8. The education level for this segment is 'University'. This indicates that the segment has a relatively high level of education. Advertisers may be interested in targeting this segment with educational products or services.
+
+9. The job type for this segment is 'White Collar/Service Sector'. This suggests that the segment is primarily composed of individuals who work in professional or service-related jobs. Advertisers may be interested in targeting this segment with products or services that cater to their professional needs.
+
+10. The dwelling type for this segment is 'Low Rise Apt/Semi/Duplex'. This suggests that the segment primarily resides in low-rise apartment buildings, townhouses, or semi-detached houses. Advertisers may need to tailor their messaging to appeal to this type of housing.
+
+11. The residency"
+7,Advertiser_flag=dzx5gjn-72lfq2o;jyptqpl;byl8rou;6ndxcjp-2023-05-01-2023-05-30/,Region,s3://analyst-adhoc/Campaign_Snapshot_Canada/Test_Canada_Campaign_Snapshot_MiQ_LLM/Region/Advertiser_flag=dzx5gjn-72lfq2o;jyptqpl;byl8rou;6ndxcjp-2023-05-01-2023-05-30/part-00000-tid-601502870404584126-6736a090-b314-45b4-aebd-fdcd044c15a8-12648-2.c000.snappy.parquet,"Row(region='Newfoundland and Labrador', impressions_display='27654.0', population_display='2014621.0')","
+Insights:
+
+1. Region: The advertising campaign reached a total of 27,654 impressions in the region of Newfoundland and Labrador. This represents a significant reach for this region, considering its population of approximately 2.01 million people, as indicated by the population_display value. The impression rate in this region is approximately 13.7 impressions per capita. This is a relatively high impression rate, suggesting that the campaign was effective in reaching a large portion of the population in this region.
+
+2. Impressions_display: The total number of impressions displayed in Newfoundland and Labrador is 27,654. This is a substantial number, indicating that the campaign reached a large audience in this region. The impressions_display value can be used to measure the reach of the campaign and to compare the performance of different regions.
+
+3. Population_display: The population of Newfoundland and Labrador is approximately 2.01 million people. This information can be used to calculate the impression rate per capita, which is a useful metric for evaluating the effectiveness of the campaign in reaching the target audience. In this case, the impression rate per capita is 13.7, which is relatively high, suggesting that the campaign was successful in reaching a significant portion of the population in this region.
+
+Overall, the data suggests that the advertising campaign had a strong reach in the region of Newfoundland and Labrador, with a relatively high impression rate per capita. This indicates that the campaign was effective in reaching a large portion of the population in this region and may have been successful in achieving its objectives."
+8,Advertiser_flag=dzx5gjn-72lfq2o;jyptqpl;byl8rou;6ndxcjp-2023-05-01-2023-05-30/,Strategy,Campaign_Snapshot_Canada/Test_Canada_Campaign_Snapshot_MiQ_LLM/Strategy/Advertiser_flag=dzx5gjn-72lfq2o;jyptqpl;byl8rou;6ndxcjp-2023-05-01-2023-05-30/,,parquet file not found!
+9,Advertiser_flag=dzx5gjn-72lfq2o;jyptqpl;byl8rou;6ndxcjp-2023-05-01-2023-05-30/,Tactic,Campaign_Snapshot_Canada/Test_Canada_Campaign_Snapshot_MiQ_LLM/Tactic/Advertiser_flag=dzx5gjn-72lfq2o;jyptqpl;byl8rou;6ndxcjp-2023-05-01-2023-05-30/,,parquet file not found!
+10,Advertiser_flag=dzx5gjn-72lfq2o;jyptqpl;byl8rou;6ndxcjp-2023-05-01-2023-05-30/,Temporal,s3://analyst-adhoc/Campaign_Snapshot_Canada/Test_Canada_Campaign_Snapshot_MiQ_LLM/Temporal/Advertiser_flag=dzx5gjn-72lfq2o;jyptqpl;byl8rou;6ndxcjp-2023-05-01-2023-05-30/part-00000-tid-273703077662063296-232744d9-43be-4994-bff0-72ef724c8dc1-12164-2.c000.snappy.parquet,"Row(date1='2023-05-28', time_of_day='09', day_of_week='Sunday', impressions_display='11', clicks='0', total_conversions='0')","
+Insights:
+1. The date of this data point is May 28, 2023. This is a Sunday.
+2. The time of day for this data point is 09, which corresponds to 9 AM.
+3. On this particular Sunday, there were 11 impressions displayed to users during the advertising campaign.
+4. No clicks were recorded for this data point, indicating a low user engagement level.
+5. No conversions were recorded for this data point, suggesting that no sales or leads were generated from the impressions displayed during this time.
+6. The low engagement and conversion rates on Sundays at 9 AM could be due to several factors, such as lower user activity levels, less competition in the ad space, or the fact that this time slot may not be the optimal targeting choice for the specific advertising campaign.
+7. To improve the performance of the campaign during this time slot, it may be worth considering targeting specific user demographics, adjusting bids, or testing different ad creatives to increase user engagement and conversions.
+8. It is also important to note that a single data point does not provide a comprehensive view of the campaign's performance. Further analysis of historical data and trends would be necessary to make informed decisions about campaign optimization."
