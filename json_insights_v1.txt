@@ -1,0 +1,29 @@
+Slide 3:
+The campaign summary slide shows that the campaign received a total of 176,098 impressions and 197 clicks, resulting in a CTR of 0.11%. The day of the week with the highest performance was Wednesday, and the best performing cities were Saint Maurice and Nunavut.
+
+Slide 4:
+The performance by strategy slide indicates that the Competitor Conquesting strategy had the highest CTR of 0.19%, followed by In-Market for Home Appliances, Home tech and etc. - InApp at 0.15%. The CC, RT, and BT strategies had lower CTRs of 0.17%, 0.12%, and 0.11% respectively.
+
+Slide 5:
+The performance by creative slide reveals that the 728x90 creative size had the lowest CTR of 0.11%, while the 160x600 and 300x250 sizes had similar CTRs of 0.11% and 0.14% respectively.
+
+Slide 6:
+The daily performance slide shows that the campaign had the highest CTR on June 21st with a value of 0.22%, while the lowest CTR was observed on June 5th with a value of 0.05%.
+
+Slide 7:
+The performance by day of the week slide indicates that the campaign had the highest CTR on Thursdays with a value of 0.15%, while the lowest CTR was observed on Sundays with a value of 0.11%.
+
+Slide 8:
+The performance by time of the day slide shows that the campaign had the highest CTR between 13:00 and 15:00 with a value of 0.17%, while the lowest CTR was observed between 18:00 and 20:00 with a value of 0.09%.
+
+Slide 9:
+The state performance slide indicates that British Columbia had the highest CTR of 2.54%, while the Northwest Territories had the lowest CTR of 0.74%.
+
+Slide 10:
+The audience demographic insights slide shows that the campaign had the highest CTR among females with a value of 59.18%, and among individuals with a university certificate, diploma, or degree above bachelor level with a value of 31%. The campaign also had a high CTR among individuals with household income of $300,000 or over with a value of 38.96%.
+
+Slide 11:
+The Prizm descriptor slide indicates that the campaign had the highest CTR among individuals living in Indieville, which is characterized by younger and middle-aged urban singles and couples, followed by All-Terrain Families, which is characterized by younger and middle-aged suburban families. The campaign had the lowest CTR among individuals living in Slow-Lane Suburbs, which is characterized by older middle income singles and couples.
+
+Summary:
+The campaign summary slide shows that the campaign received a total of 176,098 impressions and 197 clicks, resulting in a CTR of 0.11%. The best performing days, cities, strategies, creative sizes, and demographics were identified, with Thursday, Saint Maurice, Competitor Conquesting, 160x600, and females with a university certificate, diploma, or degree above bachelor level being the top performers. The campaign had the highest CTR between 13:00 and 15:00 and in British Columbia, while the lowest CTR was observed on Sundays and in the Northwest Territories. The campaign also had a high CTR among individuals with household income of $300,000 or over and among those living in Indieville and All-Terrain Families.
