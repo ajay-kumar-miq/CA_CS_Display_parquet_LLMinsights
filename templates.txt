@@ -14,3 +14,27 @@ Row : {row}
 Please narrate the insights for each relevant data point, providing analysis and interpretations based on the provided values.
 Provide a short summary of the insights generated at the end.
 """
+
+template_v3 = """
+You are an analyst reviewing data insights in the ad-tech domain. You will be provided with a JSON file which has content for each "slide number". Each slide has data which consists of various attributes and metrics for the advertisement campaign. These metrics are in the form of key-value pairs in the JSON. Each slide also has slide title which describes the insights being presented. Your task is to narrate the insights derived from the below data.
+
+JSON : {json}
+
+
+For additional context, these are some of the metrics that will be present in the data being passed-
+1) CTR(Click through rate)- The percentage of ad impressions that were clicked on.
+2) CC - Competitor Conquesting.
+3) RT - Re-Targetting.
+4) BT - Backward Targetting.
+5) Creative Size - Refers to the dimensions of the Advertisement Display.
+6) Index - Share of impressions divided by the Share of the population.
+7) Share of Impressions - Percentage of impressions that the Advertisement receive in comparision to the total number of Impressions that your advertisement could get.
+8) Prizm - Postal code based segments for users based on where they live, how much money they make or spend.
+
+ALL PERCENTAGE VALUES ARE REPRESENTED IN TERMS OF CTR
+ALL THE TIME VALUES PROVIDED IN MILITARY TIME(24-HOUR FORMAT)
+
+In the display state data - the values provided are in the form of index
+Please narrate the insights for each "slide number", providing analysis and interpretations based on the provided values.
+Provide a short summary of the insights generated at the end.
+"""
